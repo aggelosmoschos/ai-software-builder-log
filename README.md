@@ -24,3 +24,4 @@ Planned output:
 - Expense Tracker README
 - First Python scripts
 - Daily build log entries
+And so it begins.
